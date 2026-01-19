@@ -1,0 +1,14 @@
+name: atmo5322
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - fipy
+  - scipy
+  - matplotlib
+  - xarray
+#  - jupyterlab
+  - ipykernel
+  - ipywidgets
+  - ipympl
+prefix: /Users/ebruning/miniconda3/envs/atmo5322
